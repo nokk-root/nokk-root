@@ -12,7 +12,7 @@
       I'm a tech enthusiast and programmer, currently studying Computer Science. I love exploring everything related to technology. I'm growing my skills through full-stack projects and constant learning.
       <br><br>
       <b>langs && frameworks:</b><br>
-      ▸ java, javascript, typescript, python, react, express, node.
+      ▸ javascript, typescript, react, express, node.
       <br><br>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehcode&layout=compact&theme=codeSTACKr" alt="Top Languages">
       </p>
