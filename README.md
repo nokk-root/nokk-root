@@ -14,7 +14,7 @@
       <b>langs && frameworks:</b><br>
       ▸ javascript, typescript, react, express, node.
       <br><br>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dehcode&layout=compact&theme=codeSTACKr" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nokk-root&layout=compact&theme=codeSTACKr" alt="Top Languages">
       </p>
     </td>
   </tr>
